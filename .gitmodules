@@ -1,0 +1,3 @@
+[submodule "wordpress-6.8.1/wordpress/web01"]
+	path = wordpress-6.8.1/wordpress/web01
+	url = https://github.com/wordpress/wordpress.git
